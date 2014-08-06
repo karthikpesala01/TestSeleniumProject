@@ -1,4 +1,4 @@
 TestSeleniumProject
 ===================
 
-Repository for Testing Purpose - Updated recently
+Repository for Testing Purpose - Updated recently removed
